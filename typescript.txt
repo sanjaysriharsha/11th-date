@@ -1,0 +1,5 @@
+Features of TypeScript
+    Object Orientation, 
+    Strong type checking and 
+    Compile-time error checks 
+
